@@ -1,5 +1,6 @@
 /* Fluid layout refinements for phones, tablets, laptops and wide displays. */
 img{max-width:100%}
+.ticker{text-align:center}
 .wrap{width:min(100%,1680px);margin-inline:auto}
 .site-header{padding-inline:max(5vw,calc((100vw - 1680px)/2))}
 .hero>* , .two-col>* , .listen-grid>* , .booking-grid>*{min-width:0}
